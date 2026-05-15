@@ -330,16 +330,6 @@ function nextFlashcard(){
   showFlashcard();
 }
 
-function showHafalan(){
-
-  document.getElementById("hafalanBox").classList.remove("hidden");
-
-  document.getElementById("latihanBox").classList.add("hidden");
-
-  document.getElementById("resultBox").classList.add("hidden");
-}
-
-
 // ====================
 // ACAK
 // ====================
